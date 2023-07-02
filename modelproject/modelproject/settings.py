@@ -197,4 +197,4 @@ SIMPLE_JWT = {
     'TOKEN_USER_CLASS': 'rest_framework_simplejwt.models.TokenUser',
 }
 
-ALLOWED_HOSTS = ['port-0-test-k19y2kljlm4x1w.sel4.cloudtype.app/', '127.0.0.1']
+ALLOWED_HOSTS = ['port-0-test-k19y2kljlm4x1w.sel4.cloudtype.app', '127.0.0.1']
